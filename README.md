@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Basava Patil
+# 👋 Hi, I'm Basavaraj Patil
 
 💻 **Frontend Developer | Java Developer | Computer Science Engineer**
 
