@@ -31,7 +31,7 @@ I'm passionate about building responsive, user-friendly web applications and con
 - Servlets
 - JSP
 - spring
--springboot
+- springboot
 ### Database
 - MySQL
 - SQL
