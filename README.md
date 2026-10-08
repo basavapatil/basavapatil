@@ -32,6 +32,7 @@ I'm passionate about building responsive, user-friendly web applications and con
 - JSP
 - spring
 - springboot
+- React.js
 ### Database
 - MySQL
 - SQL
@@ -41,6 +42,7 @@ I'm passionate about building responsive, user-friendly web applications and con
 - GitHub
 - VS Code
 - Eclipse
+- Excel
 
 ---
 
